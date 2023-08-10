@@ -158,16 +158,6 @@ $p-color-hover: #bf0707;
 
 }
 
-.btn-back{
-    @include go-back-btn;
-    path{
-        fill: #4a4a4a;
-    }
-
-    &:hover{
-        background-color: #55555e;
-    }
-}
 
 
 
